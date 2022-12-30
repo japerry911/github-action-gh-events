@@ -1,0 +1,1 @@
+course project filters and activity types
